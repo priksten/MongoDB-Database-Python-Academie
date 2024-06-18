@@ -18,6 +18,7 @@ Lijst van ontworpen functies:
 - delete_all_documents
 - delete_collection
 
+Er zijn in deze repository csv-bestanden opgenomen waarmee het programma kan worden getest.
 Voor dit programma is geen GUI ontwikkeld.  
 
 # Programmeertaal + versie:
